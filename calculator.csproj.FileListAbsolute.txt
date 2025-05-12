@@ -1,0 +1,16 @@
+C:\Users\Gidroid\source\repos\calculator\bin\Debug\net8.0-windows\calculator.exe
+C:\Users\Gidroid\source\repos\calculator\bin\Debug\net8.0-windows\calculator.deps.json
+C:\Users\Gidroid\source\repos\calculator\bin\Debug\net8.0-windows\calculator.runtimeconfig.json
+C:\Users\Gidroid\source\repos\calculator\bin\Debug\net8.0-windows\calculator.dll
+C:\Users\Gidroid\source\repos\calculator\bin\Debug\net8.0-windows\calculator.pdb
+C:\Users\Gidroid\source\repos\calculator\obj\Debug\net8.0-windows\calculator.Form1.resources
+C:\Users\Gidroid\source\repos\calculator\obj\Debug\net8.0-windows\calculator.csproj.GenerateResource.cache
+C:\Users\Gidroid\source\repos\calculator\obj\Debug\net8.0-windows\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gidroid\source\repos\calculator\obj\Debug\net8.0-windows\calculator.AssemblyInfoInputs.cache
+C:\Users\Gidroid\source\repos\calculator\obj\Debug\net8.0-windows\calculator.AssemblyInfo.cs
+C:\Users\Gidroid\source\repos\calculator\obj\Debug\net8.0-windows\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Gidroid\source\repos\calculator\obj\Debug\net8.0-windows\calculator.dll
+C:\Users\Gidroid\source\repos\calculator\obj\Debug\net8.0-windows\refint\calculator.dll
+C:\Users\Gidroid\source\repos\calculator\obj\Debug\net8.0-windows\calculator.pdb
+C:\Users\Gidroid\source\repos\calculator\obj\Debug\net8.0-windows\calculator.genruntimeconfig.cache
+C:\Users\Gidroid\source\repos\calculator\obj\Debug\net8.0-windows\ref\calculator.dll

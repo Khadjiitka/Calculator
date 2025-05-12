@@ -1,2 +1,2 @@
 # Calculator
-Simple calculator (Windows Forms)
+Simple calculator (WinForms)
